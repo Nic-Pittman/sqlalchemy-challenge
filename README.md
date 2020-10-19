@@ -53,13 +53,13 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
  
 - Design a query to find the most active stations.
  
- -- List the stations and observation counts in descending order.
+    -- List the stations and observation counts in descending order.
 
 
- -- Which station has the highest number of observations?
+    -- Which station has the highest number of observations?
 
 
- -- Hint: You will need to use a function such as func.min, func.max, func.avg, and func.count in your queries.
+    -- Hint: You will need to use a function such as func.min, func.max, func.avg, and func.count in your queries.
 
 
 
