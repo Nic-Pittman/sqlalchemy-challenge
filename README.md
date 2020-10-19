@@ -22,8 +22,6 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 - Use SQLAlchemy automap_base() to reflect your tables into classes and save a reference to those classes called Station and Measurement.
 
-![climate_analysis_and_exploration](https://user-images.githubusercontent.com/69124282/96506556-d44f7880-1225-11eb-8121-f446094a34c8.jpg)
-
 
 # Precipitation Analysis
 
@@ -65,8 +63,6 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
     -- Hint: You will need to use a function such as func.min, func.max, func.avg, and func.count in your queries.
 
 
-
-
 - Design a query to retrieve the last 12 months of temperature observation data (TOBS).
 
 
@@ -76,7 +72,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
     -- Plot the results as a histogram with bins=12.
 
 
-
+![station_analysis](https://user-images.githubusercontent.com/69124282/96506898-69527180-1226-11eb-9b79-00926c898b4a.jpg)
 
 
 
