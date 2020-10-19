@@ -95,6 +95,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
     -- List all routes that are available.
 
+![available_routes](https://user-images.githubusercontent.com/69124282/96505223-d284b580-1223-11eb-9725-5417ddf37834.jpg)
 
 
 
@@ -106,6 +107,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
     -- Return the JSON representation of your dictionary.
 
+![precipitation_results](https://user-images.githubusercontent.com/69124282/96505224-d284b580-1223-11eb-9158-7ada579c68f4.jpg)
 
 
 
@@ -113,6 +115,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
     -- Return a JSON list of stations from the dataset.
 
+![station_results](https://user-images.githubusercontent.com/69124282/96505221-d284b580-1223-11eb-8b80-5d473b5a8ca4.jpg)
 
 
 - "/api/v1.0/tobs"
@@ -123,6 +126,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
     -- Return a JSON list of temperature observations (TOBS) for the previous year.
 
+![tobs_results](https://user-images.githubusercontent.com/69124282/96505222-d284b580-1223-11eb-9091-f6c691aaf0fa.jpg)
 
 
 
@@ -134,5 +138,10 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
     -- When given the start only, calculate TMIN, TAVG, and TMAX for all dates greater than and equal to the start date.
 
+![start_results](https://user-images.githubusercontent.com/69124282/96505220-d284b580-1223-11eb-88d6-fccd5e784c7a.jpg)
+
 
    -- When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
+   
+![start_end_results](https://user-images.githubusercontent.com/69124282/96505218-d284b580-1223-11eb-93bb-e84c3a953f22.jpg)
+
