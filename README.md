@@ -3,6 +3,8 @@ Nic Pittman
 
 # SQLAlchemy Homework - Surfs Up!
 
+![batman](https://user-images.githubusercontent.com/69124282/96508304-65bfea00-1228-11eb-9c60-615edaa649e2.jpg)
+
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
@@ -99,6 +101,8 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 
 
+
+
 - "/api/v1.0/precipitation"
 
 
@@ -111,11 +115,17 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 
 
+
+
+
 - "/api/v1.0/stations"
 
     -- Return a JSON list of stations from the dataset.
 
 ![station_results](https://user-images.githubusercontent.com/69124282/96505221-d284b580-1223-11eb-8b80-5d473b5a8ca4.jpg)
+
+
+
 
 
 - "/api/v1.0/tobs"
@@ -130,6 +140,9 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 
 
+
+
+
 - "/api/v1.0/<start> and /api/v1.0/<start>/<end>"
 
 
@@ -141,7 +154,10 @@ Now that you have completed your initial analysis, design a Flask API based on t
 ![start_results](https://user-images.githubusercontent.com/69124282/96505220-d284b580-1223-11eb-88d6-fccd5e784c7a.jpg)
 
 
-   -- When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
+ 
+ 
+ 
+ -- When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
    
 ![start_end_results](https://user-images.githubusercontent.com/69124282/96505218-d284b580-1223-11eb-93bb-e84c3a953f22.jpg)
 
