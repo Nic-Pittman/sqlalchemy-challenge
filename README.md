@@ -50,11 +50,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 
 - Design a query to calculate the total number of stations.
-
-
-- Design a query to find the most active stations.
-
-
+ - Design a query to find the most active stations.
  - List the stations and observation counts in descending order.
 
 
